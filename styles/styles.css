@@ -44,3 +44,38 @@ nav{
    justify-content: space-between;
    margin: 0 850px;
 }
+
+/* banner-section */
+.secondary-bg{
+    background-color: bisque;
+}
+.banner-section{
+    padding: 130px 150px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 130px;
+}
+/* main style */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/* about styles */
+.about-items{
+    text-align: left;
+    display: flex;
+    background-color: #FFFFFF;
+}
+/* section styles */
+.section-items{
+    text-align: left;
+    display: flex;
+    background-color: #FFFFFF;
+}
+
+.items{
+    text-align: left;
+    display: flex;
+    background-color: #FFFFFF;
+}
