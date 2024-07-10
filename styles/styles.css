@@ -1,13 +1,19 @@
 
+.azeret-mono-<font-style> {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <100px>;
+  font-style: normal;
+}
+
 *{
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+  padding: 0 auto;
 }
 /* nav.style */
 nav{
     background-image: url("../assets/Hero-bg.png");
-    max-width: 100%;
+   max-width: 100%;
 }
 /* images.style */
 .images{
@@ -79,3 +85,13 @@ main{
     display: flex;
     background-color: #FFFFFF;
 }
+
+.video-banner{
+    background-color: burlywood;
+    padding: 0 300px;
+    text-align: center;
+}
+.video-title{
+    font-weight: 800px;
+}
+
