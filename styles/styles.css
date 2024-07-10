@@ -1,8 +1,7 @@
 
-.azeret-mono-<font-style> {
+.azeret-mono-normal{
   font-family: "Azeret Mono", monospace;
   font-optical-sizing: auto;
-  font-weight: <100px>;
   font-style: normal;
 }
 
@@ -127,3 +126,19 @@ li{
     list-style: none;
 }
 
+.text-center{
+    text-align: center;
+    color: white;
+}
+.box-file{
+    background-image: url("../assets/handshake.jpg");
+    padding: 50px 100px;
+    margin-top: 130px;
+    height: 280px;
+    width: 1110px;
+}
+
+.from{
+    size: 500px;
+    
+}
